@@ -53,7 +53,6 @@
               }
                 break;
         }
-    return wordNumber.join(' ');
-}
+    return wordNumber.join(' ');}
     
 
